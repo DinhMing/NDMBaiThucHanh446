@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BIZoOMpcRkQtxjNdPensNDptUVR9r6yVc3hxnrKG0M/2/NWgBV7/dmA5px8EVJSh0msL04VPgjDv+MhjtBw95Q==",
+  "dgSpecHash": "ufee54dEthAv1AHBrhR9jfOllLKKO5/7CPolYBj/QgzGh4d240Pz98Tr6vhZOtO5dzSVOBF1Yp9TuqeDcufo8w==",
   "success": true,
-  "projectFilePath": "C:\\Net_Core\\DemoGit\\NewApp\\NewApp.csproj",
+  "projectFilePath": "C:\\Net_Core\\NewApp\\NewApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

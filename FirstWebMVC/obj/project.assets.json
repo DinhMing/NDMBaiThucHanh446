@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Net_Core\\NewApp\\NewApp.csproj",
-      "projectName": "NewApp",
-      "projectPath": "C:\\Net_Core\\NewApp\\NewApp.csproj",
+      "projectUniqueName": "C:\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectName": "FirstWebMVC",
+      "projectPath": "C:\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj",
       "packagesPath": "C:\\Users\\DINH MINH\\.nuget\\packages\\",
-      "outputPath": "C:\\Net_Core\\NewApp\\obj\\",
+      "outputPath": "C:\\Net_Core\\FirstWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DINH MINH\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,6 +26,7 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -55,6 +56,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
