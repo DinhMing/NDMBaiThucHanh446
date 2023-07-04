@@ -1,10 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("phat trien phan men quan li");
-Console.WriteLine("Nhap ten cua ban: ");
-string name = Console.ReadLine();
-Console.WriteLine("Nhap tuoi: ");
-string tuoi = Console.ReadLine();
-Console.WriteLine("Sinh vien: " + name + " Co tuoi la: " + tuoi); 
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        const string hoTen = "Nguyen Dinh Minh";
+        const int namLamViec = 8;
+        Console.WriteLine("Nhan vien {0} - {1} nam kinh nghiem",hoTen,namLamViec);
+        
+    }
+}
 
 
 
